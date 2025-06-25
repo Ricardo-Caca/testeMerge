@@ -13,3 +13,8 @@ class Usuario(models.Model):
 
     def __str__(self):
         return f"Usuário: {self.user.nome}"
+
+função(legal)
+{
+    print('nada AQUI')
+}
